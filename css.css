@@ -1,0 +1,210 @@
+body {
+  background: #f1f1f1;
+  margin:0px;
+  display: flow-root;
+  
+  
+}
+#search {
+  position: relative;
+  margin: 0%;
+  background-color: #1668b3;
+  height: 2.7em;
+  margin-bottom: 13px;
+  color: rgb(255, 255, 255);
+}
+#move {
+  position: absolute;
+  /*top:-65;*/
+  left: 0px;
+  margin-left: 75em;
+  margin-top: -1.7em;
+}
+#image-0 {
+  margin-top: -49.2px;
+  margin-left: 42.464%;
+  height: 30px;
+  position: absolute;
+  /*top:-65;*/
+  left: 0px;
+}
+#image-6 {
+  margin-top: -52.9px;
+  position: absolute;
+  /*top:-65;*/
+  left: 0px;
+  margin-left: 190px;
+}
+
+#search-1 {
+  margin-left: 20%;
+  margin-top: 5px;
+  border-radius: 7px;
+  height: 65%;
+  width: 26.5%;
+}
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.left {
+  margin-left: 200px;
+  flex: 29%;
+  height: 100%;
+}
+#doi-mau {
+  color: white;
+  margin-left:10px;
+
+}
+#color-blue {
+  height: 280px;
+  width: 335px;
+  border: 1px solid rgb(210, 210, 210);
+  background-color: #1668b3;
+}
+#gender {
+  width: 300px; /* Điều chỉnh chiều dài (độ rộng) */
+ 
+  margin-bottom: 13.6px;
+  margin-left: 8px;
+  font-size: 12px; /* Điều chỉnh kích thước chữ */
+  padding: 5px; /* Điều chỉnh kích thước padding */
+  border-radius:4.8px;
+}
+
+#hover1-loc:hover {
+  background-color: rgb(255, 135, 48);
+}
+#hover1-loc {
+  padding: 5px 8px; /* Điều chỉnh khoảng cách nội dung bên trong nút */
+  margin-left: -5px; /* Điều chỉnh khoảng cách từ phía trên của nút */
+}
+
+.tel {
+  margin-left: 8px;
+  margin-bottom: 10px;
+  border-radius:3px;
+  padding: 5px; /* Điều chỉnh kích thước padding */
+  border-style: none;
+  display: inline-block; /* Hiển thị nút như một khối inline */
+}
+
+#tell {
+  width: 250px;
+}
+
+
+#not-robot {
+  margin: 8px;
+  height: 65px;
+  width: 85%;
+  background-color: white;
+  border:2px white solid;
+  border-radius:2px;
+}
+.custom-checkbox{
+  border: 300px;
+  height:30px;
+  width:30px;
+  margin-top:11.5px;
+  margin-left:13px;
+}
+#chinh-chu {
+  /*border: 2px solid rgb(4, 4, 4); /* Sửa màu viền thành màu trắng */
+  margin-left: 51px;
+  margin-top:-27.9px;
+  display: flex;
+  font-size:120%;
+}
+#vi-tri {
+  float: left; /* Hoặc right nếu bạn muốn di chuyển ảnh tới bên phải */
+  margin-top: -40px; /* Khoảng cách từ phía trên xuống (y) */
+  margin-left: 210px; /* Khoảng cách từ bên trái sang (x) */
+  width:25%;
+}
+
+/* Phần CSS để khắc phục lỗi tràn lề trong thẻ <a> */
+.link-content {
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+  display: flow-root;
+}
+
+
+#js-dan{
+  margin-left:8px;
+  text-decoration:none;
+  color:white;
+}
+
+
+#image-1 {
+  width: 336px;
+}
+#image-2 {
+  margin-top: 9px;
+  margin-left: 28px;
+}
+#image-3 {
+  margin-left: 28px;
+  margin-top: 9px;
+}
+#image-4 {
+  margin-top: 9px;
+  margin-left: 28px;
+}
+#image-5 {
+  margin-top: 9px;
+  margin-left: 28px;
+}
+#le {
+  margin-top: 5px;
+}
+
+
+/* web bên phải*/
+.right {
+  border:1px rgb(255, 255, 255) solid;
+  flex: 55%;
+  background: #ffffff;
+  margin-right: 190px;
+  display: flow-root;
+  height:1370px;
+}
+h1{
+  margin-left:15px;
+  font-size:200%;
+  opacity: 0.8;
+  font-weight: 300;
+}
+#p-right-1{
+  margin-left:15px;
+  font-size:85%;
+  
+}
+a{
+  text-decoration:none;
+}
+#image-7{
+  margin-left:4em;
+}
+#image-8{
+  margin-left:4em;
+}
+#p-right-2{
+  font-size:85%;
+  margin-left:15px;
+}
+#p-right-3{
+  font-size:85%;
+  margin-left:15px;
+}
+
+#image-9{
+  margin-left:15px;
+}
